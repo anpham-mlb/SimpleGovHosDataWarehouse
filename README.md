@@ -10,11 +10,11 @@ Build an ER diagram from collective data of all government-run hospitals (figure
 - Create the fact and dimension tables using SQL.
 
 ## Result
-The data warehouse is able to:
-- Show the total number of patients making appointments during Winter.
-- Show the total service charged for each service cost type.
-- Show the total number of patients by each age group (infant <1, children <18, adult 18+, senior 65+) in April 2020.
-- Show the total service charged for general medical consultations in each suburb.
+The data warehouse is able to show some information such as:
+- The total number of patients making appointments during Winter.
+- The total service charged for each service cost type.
+- The total number of patients by each age group (infant <1, children <18, adult 18+, senior 65+) in April 2020.
+- The total service charged for general medical consultations in each suburb.
 
 
 
