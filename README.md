@@ -9,7 +9,7 @@ Build an ER diagram from collective data of all government-run hospitals (figure
 - Develop a GOVERNMENT HOSPITAL star schema (figure 2).
 - Create the fact and dimension tables using SQL.
 
-### Result
+## Result
 The data warehouse is able to:
 - Show the total number of patients making appointments during Winter.
 - Show the total service charged for each service cost type.
