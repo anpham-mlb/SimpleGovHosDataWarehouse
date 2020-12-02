@@ -1,10 +1,10 @@
-### Purpose
+## Purpose
 Build a data warehouse for analyzing trends and forecasting purposes to identify which frequently used services and popular hospital locations. The statistics include the total number of patients, total service charged by services used, time periods, age groups, and hospital locations.
 
-## Step 1
+### Step 1
 Build an ER diagram from collective data of all government-run hospitals (figure 1).
 
-## Step 2
+### Step 2
 - Create the operational database based on the E/R Diagram using SQL.
 - Develop a GOVERNMENT HOSPITAL star schema (figure 2).
 - Create the fact and dimension tables using SQL.
